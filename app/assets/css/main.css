@@ -1,0 +1,78 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  /* South Africa-inspired palette — inherited from the archived Next.js build */
+  --color-gold: #F5A623;
+  --color-gold-light: #FFC857;
+  --color-gold-dark: #D4891E;
+  --color-terracotta: #C75B39;
+  --color-terracotta-light: #E07A5F;
+  --color-terracotta-dark: #A3462B;
+  --color-ocean: #2B6CB0;
+  --color-ocean-light: #4A90D9;
+  --color-ocean-dark: #1E4F82;
+  --color-safari: #48835D;
+  --color-safari-light: #68A67E;
+  --color-safari-dark: #346343;
+  --color-warm-white: #FFF8F0;
+  --color-anthracite: #2D3748;
+  --color-anthracite-light: #4A5568;
+  --color-anthracite-dark: #1A202C;
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-display: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  background-color: var(--color-warm-white);
+  color: var(--color-anthracite);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Ken Burns — slow zoom + drift on hero images */
+@keyframes ken-burns {
+  0%   { transform: scale(1.08) translate3d(0, 0, 0); }
+  50%  { transform: scale(1.18) translate3d(-2%, -1.5%, 0); }
+  100% { transform: scale(1.08) translate3d(0, 0, 0); }
+}
+.ken-burns {
+  animation: ken-burns 28s ease-in-out infinite;
+  will-change: transform;
+}
+
+/* Fade-in up for scroll-reveal sections */
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translate3d(0, 24px, 0); }
+  to   { opacity: 1; transform: translate3d(0, 0, 0); }
+}
+.fade-in-up {
+  animation: fade-in-up 0.9s cubic-bezier(0.16, 1, 0.3, 1) backwards;
+}
+
+/* Subtle pulse line (scroll indicator) */
+@keyframes scroll-line {
+  0%   { transform: scaleY(0); transform-origin: top; }
+  40%  { transform: scaleY(1); transform-origin: top; }
+  60%  { transform: scaleY(1); transform-origin: bottom; }
+  100% { transform: scaleY(0); transform-origin: bottom; }
+}
+.scroll-line {
+  animation: scroll-line 2.4s ease-in-out infinite;
+}
+
+/* Sun-haze blobs — warm, low-opacity atmospheric backdrop */
+@keyframes sun-haze {
+  0%, 100% { transform: translate3d(0, 0, 0) scale(1); opacity: 0.35; }
+  50%      { transform: translate3d(30px, -20px, 0) scale(1.15); opacity: 0.55; }
+}
+
+/* Respect reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  .ken-burns, .fade-in-up, .scroll-line {
+    animation: none;
+  }
+  .ken-burns { transform: scale(1.08); }
+}

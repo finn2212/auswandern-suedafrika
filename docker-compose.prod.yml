@@ -1,0 +1,23 @@
+services:
+  app:
+    image: ghcr.io/finn2212/auswandern-suedafrika:latest
+    container_name: auswandern-app
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: production
+      NUXT_PUBLIC_SITE_URL: https://auswandern-südafrika.de
+      # Optional — set in /opt/auswandern/.env on the server when Resend is live
+      RESEND_API_KEY: ${RESEND_API_KEY:-}
+      CONTACT_EMAIL: ${CONTACT_EMAIL:-hallo@auswandern-südafrika.de}
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://127.0.0.1:3000/"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+
+# No more postgres — Nuxt Content 3 bundles its SQLite DB into the build.
+# The old postgres volume (`postgres_data`) is intentionally orphaned and
+# stays on disk until explicitly removed with `docker volume rm`.

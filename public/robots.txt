@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /login
+Disallow: /registrieren
+Disallow: /mein-bereich
+Disallow: /produkte/kaufen
+
+Sitemap: https://auswandern-suedafrika.de/sitemap.xml

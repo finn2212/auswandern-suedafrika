@@ -1,0 +1,22 @@
+# Production Caddyfile — auswandern-südafrika.de
+# Install on the Hetzner server at /etc/caddy/Caddyfile, then: systemctl reload caddy
+
+auswandern-südafrika.de, www.auswandern-südafrika.de {
+    encode gzip zstd
+
+    header {
+        Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+        X-Content-Type-Options nosniff
+        X-Frame-Options DENY
+        Referrer-Policy strict-origin-when-cross-origin
+    }
+
+    # Nuxt (Nitro) serves both pages and /api/* on a single port
+    reverse_proxy localhost:3000
+}
+
+# For local HTTPS testing (optional, requires mkcert):
+# localhost:443 {
+#   tls internal
+#   reverse_proxy localhost:4300
+# }

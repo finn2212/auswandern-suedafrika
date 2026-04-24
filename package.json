@@ -1,0 +1,33 @@
+{
+  "name": "auswandern-suedafrika-nuxt",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev --port 4300",
+    "build": "nuxt build",
+    "preview": "nuxt preview",
+    "generate": "nuxt generate",
+    "typecheck": "nuxt typecheck",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/content": "^3",
+    "@nuxtjs/i18n": "^9",
+    "@nuxtjs/sitemap": "^8.0.13",
+    "@primevue/nuxt-module": "^4",
+    "@primevue/themes": "^4",
+    "@vueuse/core": "^12",
+    "better-sqlite3": "^12",
+    "nuxt": "^4",
+    "primeicons": "^7",
+    "primevue": "^4",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1",
+    "@tailwindcss/typography": "^0.5",
+    "tailwindcss": "^4.1",
+    "typescript": "^5.7"
+  }
+}

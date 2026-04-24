@@ -1,0 +1,18 @@
+node_modules
+.nuxt
+.output
+.data
+.git
+.github
+.DS_Store
+*.log
+.env
+.env.local
+.env.production
+.env.*.local
+
+# Build + dev artifacts not needed in image
+scripts/
+docs/
+*.md
+!public/prompts.md

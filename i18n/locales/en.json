@@ -1,0 +1,290 @@
+{
+  "nav": {
+    "blog": "Blog",
+    "products": "Products",
+    "about": "About",
+    "login": "Sign in",
+    "register": "Sign up",
+    "contact": "Contact",
+    "imprint": "Legal",
+    "privacy": "Privacy",
+    "menu": "Open menu",
+    "menu_close": "Close menu",
+    "topics": "Topics",
+    "topics_label": "Deep Dives",
+    "topics_all": "All articles in the blog",
+    "faq": "FAQ",
+    "cta_starter": "Starter Guide",
+    "locale_label": "Language",
+    "mega": {
+      "eyebrow": "10 topics, one map",
+      "title": "Choose your topic",
+      "subtitle": "Each topic as a deep dive with pillar page, articles and checklists — from our own experience.",
+      "pillar_badge": "Deep Dive",
+      "all_cta": "See all articles"
+    },
+    "products_menu": {
+      "starter_tag": "Entry",
+      "starter_price": "from €49",
+      "playbook_tag": "Premium",
+      "playbook_price": "from €197",
+      "once": "one-time, no subscription",
+      "compare": "Compare products"
+    }
+  },
+  "announcement": {
+    "badge": "New",
+    "message": "Pillar pages on visa, taxes and safety are now live.",
+    "cta": "Explore",
+    "dismiss": "Dismiss"
+  },
+  "home": {
+    "meta": { "title": "Moving to South Africa" },
+    "hero": {
+      "eyebrow": "Honest · Personal · First-hand",
+      "title_prefix": "Moving to",
+      "title_highlight": "South Africa",
+      "subtitle": "We're Laura & Finn — we moved to South Africa with our child. We share everything you need to know.",
+      "cta_primary": "Explore the Starter Guide",
+      "cta_secondary": "Free articles",
+      "scroll": "Scroll"
+    },
+    "promise": {
+      "eyebrow": "Our promise",
+      "line1": "No agency phrases, no sales fluff. Only",
+      "highlight": "what actually works",
+      "line2": " — from two years of living in South Africa, with a child, with no plan B."
+    },
+    "worlds": {
+      "eyebrow": "Our topic worlds",
+      "title": "Ten deep dives — one for every topic that decides your emigration",
+      "subtitle": "Pillar articles with everything we know on each topic. Extensive, personal, with concrete numbers and all sub-articles on one page.",
+      "badge": "Pillar guide",
+      "cta": "Read the deep dive",
+      "more_coming": "All topic worlds are live — ten thematic ones plus a personal category. Each pillar page bundles the essentials plus all blog articles on the topic.",
+      "pillars": {
+        "visa": "Nine visa types compared — including the Financial Independence Permit. Which fits which situation, what it costs, how long it takes.",
+        "job": "Locally employed, remote for a German employer, or self-employed? Honest salary ranges, the tax reality, and which structure fits which situation.",
+        "auto": "Which vehicle, new or used, insurance, and converting your German license. With real prices and our own setup choice.",
+        "immobilien": "Rent or buy? Regions, prices, and the honest answer why we still haven't bought after two years — and why that's often the right move.",
+        "anschluesse": "Internet, power, SIM, loadshedding — the first 14 days in South Africa and the backup setup you actually need.",
+        "sicherheit": "The most honest answer to \"Is South Africa safe?\" — reality check, regional differences, our nine routines, and what it actually costs per month.",
+        "steuern": "Exit tax, double taxation treaty, SARS registration. Without lawyer jargon, but with clear decision points and our own case.",
+        "krankenversicherung": "Choosing Medical Aid: Discovery, Momentum & co., waiting periods, late joiner penalty, and why gap cover is mandatory.",
+        "umzug": "Container options, customs, timing, picking the right shipper. Plus the uncomfortable truth: a lot of your German furniture doesn't belong in the container.",
+        "banking": "Wise, Capitec, FNB: the three-account structure for expats, transfer strategies, and the typical mistakes with German home banks.",
+        "allgemein": "Our most personal articles — origin story, biggest mistakes, DE-vs-SA life comparisons. Not theory, but lived experience."
+      }
+    },
+    "topics": {
+      "eyebrow": "Ten topics, one map",
+      "title": "Everything you need to know",
+      "subtitle": "From the first visa question to your child's first day of school. Ten topic areas we've walked through ourselves.",
+      "read_link": "Read articles",
+      "deep_dive_link": "Read the deep dive",
+      "visa": { "name": "Visa & Residency", "description": "Visa types, applications, processing times" },
+      "job": { "name": "Jobs & Careers", "description": "Job search, salaries, remote work" },
+      "auto": { "name": "Cars", "description": "Buying, importing, insurance, driver's license" },
+      "immobilien": { "name": "Real Estate", "description": "Renting, buying, regions, prices" },
+      "anschluesse": { "name": "Utilities", "description": "Internet, power, mobile, daily life" },
+      "sicherheit": { "name": "Safety", "description": "Reality, tips, regions" },
+      "steuern": { "name": "Taxes", "description": "Deregistration, double taxation, optimization" },
+      "krankenversicherung": { "name": "Health Insurance", "description": "Options, comparison, costs" },
+      "umzug": { "name": "Moving", "description": "Containers, customs, shipping" },
+      "banking": { "name": "Banking", "description": "Accounts, Wise, Revolut, FNB" },
+      "allgemein": { "name": "General", "description": "Fundamentals, personal stories, field reports" }
+    },
+    "personal": {
+      "eyebrow": "Who we are",
+      "title": "Two parents, one child, one decision.",
+      "p1": "In 2024 we packed up in Hamburg, sent a container to Cape Town, and boarded a plane with our child. No plan B. With far too many open questions.",
+      "p2": "Two years later, South Africa is home. On this site we share everything we've learned — including the mistakes that will hopefully save you your nerves and a few thousand euros.",
+      "link": "Read our story",
+      "card": {
+        "label": "Emigrants since 2024",
+        "note": "Cape Town · German-speaking · With child",
+        "status": "Currently on the ground"
+      }
+    },
+    "latest": {
+      "eyebrow": "From the blog",
+      "title": "Latest articles",
+      "subtitle": "Fresh from our life as an emigrant family — not research pieces, but experiences with names, places and prices.",
+      "all_link": "All articles"
+    },
+    "cta": {
+      "title": "Ready for your adventure?",
+      "subtitle": "Get our Starter Guide and start planning today.",
+      "button": "Get started — from 49 EUR"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "intro": "Honest experience reports, practical guides, and up-to-date info on moving to South Africa.",
+    "empty": "No articles published yet.",
+    "empty_category": "No articles in this category yet. Check back soon.",
+    "back_to_all": "All articles",
+    "category_intro": "All articles about {category}."
+  },
+  "products": {
+    "title": "Our products",
+    "intro": "Two products, one-time payment, no subscription. Free content to try it out, then clearly structured value.",
+    "cta": "Learn more",
+    "note": "Exact contents and pricing are being finalized.",
+    "once": "one-time, no subscription",
+    "starter-guide": {
+      "name": "South Africa Starter Guide",
+      "description": "Comprehensive digital guide, checklists, videos, and a 30-day email series. For those with concrete plans.",
+      "badge": "Entry Product",
+      "tagline": "The honest guide for anyone planning concretely — compact, practical, from our own experience.",
+      "cta": "Buy the Starter Guide",
+      "includes_heading": "What's inside",
+      "includes": {
+        "i1": "Digital guide (online + PDF)",
+        "i2": "Step-by-step checklists for each phase",
+        "i3": "Templates for visa applications and authority correspondence",
+        "i4": "10+ video tutorials from Laura & Finn",
+        "i5": "30-day email companion series after purchase",
+        "i6": "Community forum access",
+        "i7": "Emigration AI — 20 questions per day"
+      },
+      "chapters_heading": "The 5 chapters",
+      "chapters_intro": "Focused on what actually matters at the start. Nothing superfluous.",
+      "chapters": {
+        "c1": { "title": "Decision-making", "body": "Is South Africa right for you? With a self-test and warning signals." },
+        "c2": { "title": "Visa options overview", "body": "All relevant visa types, chances, and typical pitfalls." },
+        "c3": { "title": "First weeks: arriving & settling in", "body": "Day-by-day plan for month 1. What needs doing immediately." },
+        "c4": { "title": "Basics: bank account, SIM, utilities", "body": "Practical steps that work even without visa status." },
+        "c5": { "title": "Daily life with a child in South Africa", "body": "Schools, daycare, pediatrician, making friends, everyday safety." }
+      },
+      "for_whom_heading": "Who this is for",
+      "for_whom": {
+        "good": {
+          "heading": "Fits if you",
+          "body": "are planning concretely (not just dreaming), want a clear roadmap, and are ready to make the first decisions."
+        },
+        "bad": {
+          "heading": "Does not fit if you",
+          "body": "expect detailed expert interviews on taxes, real estate, and a visa masterclass. Then the Playbook is the right choice."
+        }
+      },
+      "upgrade": {
+        "title": "Need more?",
+        "body": "The Playbook includes everything in the Starter Guide plus expert interviews, live Q&A, and the complete body of knowledge.",
+        "cta": "View the Playbook"
+      }
+    },
+    "playbook": {
+      "name": "The Complete Emigration Playbook",
+      "description": "Everything from the Starter Guide plus expert interviews, tax optimization, real estate market overview, unlimited AI access, live Q&A.",
+      "badge": "Premium Product",
+      "tagline": "The definitive reference. Everything we know, in one product — including experts and lifetime updates.",
+      "cta": "Buy the Playbook",
+      "bonus_heading": "What you get on top of the Starter Guide",
+      "bonus_intro": "All Starter Guide content is included. On top of that:",
+      "bonus": {
+        "b1": "Video expert interviews with tax advisors, realtors, lawyers",
+        "b2": "Tax optimization strategies (with our partner tax advisor)",
+        "b3": "Live Q&A with Laura & Finn (quarterly, exclusive)",
+        "b4": "Unlimited access to the Emigration AI",
+        "b5": "Lifetime free updates + exclusive affiliate discounts"
+      },
+      "chapters_heading": "The 10 deep-dive chapters",
+      "chapters_intro": "Each of the 10 topics as a full reference — not just a surface look.",
+      "chapters": {
+        "c1": { "title": "Visa masterclass", "body": "Every visa type in detail, with real application experiences." },
+        "c2": { "title": "Jobs & self-employment", "body": "Realistic paths, concrete platforms, salary benchmarks." },
+        "c3": { "title": "Cars: from imports to insurance", "body": "New, used, imported. Maintenance and resale." },
+        "c4": { "title": "Real estate: rent vs. buy", "body": "Regions in detail, price trends, contract specifics." },
+        "c5": { "title": "Taxes: double taxation, deregistration, optimization", "body": "Together with our partner tax advisor." },
+        "c6": { "title": "Health insurance & the healthcare system", "body": "Discovery, Momentum & co. — who fits whom." },
+        "c7": { "title": "Safety: reality vs. prejudice", "body": "Regional assessments and concrete prevention routines." },
+        "c8": { "title": "Moving logistics: container, customs, checklists", "body": "From the first quote to customs clearance in Cape Town." },
+        "c9": { "title": "Banking & finance", "body": "Accounts, international transfers, investing locally." },
+        "c10": { "title": "Community & integration", "body": "How to build real friendships in South Africa — without the isolation trap." }
+      },
+      "for_whom_heading": "Who this is for",
+      "for_whom": {
+        "good": {
+          "heading": "Fits if you",
+          "body": "are planning seriously and comprehensively, want to engage with the complex questions (taxes, real estate, visa), and want live access to us."
+        },
+        "bad": {
+          "heading": "Does not fit if you",
+          "body": "only need first orientation. Then the Starter Guide is the better entry point."
+        }
+      },
+      "final_cta": {
+        "title": "The complete knowledge — buy once, yours for life",
+        "body": "One-time payment, no subscription. Lifetime updates. Full access.",
+        "button": "Buy the Playbook now"
+      }
+    }
+  },
+  "about": {
+    "meta": { "title": "About" },
+    "hero": {
+      "title": "We're Laura & Finn",
+      "subtitle": "A German family who moved to South Africa — with our child, without a plan B. Today we help others walk the same path."
+    },
+    "story": {
+      "heading": "How it started",
+      "p1": "It started with a three-week holiday in Cape Town — and the realisation that we didn't want to go back. Two years later we were sitting in a half-furnished Airbnb in Bloubergstrand with three suitcases, our child, and a container somewhere on the high seas.",
+      "p2": "At that point we had done a lot of research, but had even more open questions. Most online guides were either shallow, outdated, or written by consultants trying to sell emigration as a product — not as a life.",
+      "p3": "This site is what we ourselves would have needed back then: honest, first-hand, no sales fluff. Including the mistakes we made. And there were quite a few."
+    },
+    "mission": {
+      "heading": "Our mission",
+      "p1": "We want to be the first and most honest resource for German-speaking people moving to South Africa. Not theory — practical knowledge from everyday life. Not generic checklists — decision support for your specific situation."
+    },
+    "values": {
+      "heading": "What matters to us",
+      "v1": {
+        "title": "Honesty over reach",
+        "body": "We decline even when a product or provider doesn't deliver what it promises — regardless of how good the commission is."
+      },
+      "v2": {
+        "title": "Experience over theory",
+        "body": "Every guide is based on what we've done ourselves or what families on the ground have lived through. No research-only articles without a practice test."
+      },
+      "v3": {
+        "title": "Currency over completeness",
+        "body": "Laws, prices, visa rules change. We revise articles regularly and show openly when something was last verified."
+      },
+      "v4": {
+        "title": "You decide",
+        "body": "We give you information, not ready-made answers. Every family is different, every emigration too. Ultimately you walk your own path."
+      }
+    },
+    "cta": {
+      "title": "Get to know us better",
+      "subtitle": "Start with our free articles or get the Starter Guide for structured planning.",
+      "primary": "View products",
+      "secondary": "To the blog"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "placeholder": "Full privacy policy to be completed before launch. For questions, use the contact page linked in the footer."
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "Got a specific question, feedback about an article, or just want to say hello? We read every email.",
+    "email_label": "Write to us directly:",
+    "note": "Please be patient — we usually reply within 48 hours. For press inquiries, use \"Press\" in the subject line."
+  },
+  "footer": {
+    "tagline": "German-language platform for emigrating to South Africa — honest, personal, first-hand.",
+    "explore": "Explore",
+    "legal": "Legal"
+  },
+  "imprint": {
+    "title": "Legal Notice"
+  },
+  "auth": {
+    "login_title": "Sign in",
+    "register_title": "Sign up",
+    "area_title": "My area",
+    "placeholder": "The sign-in flow will be implemented later."
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "nav": {
+    "blog": "Blog",
+    "products": "Produkte",
+    "about": "Über uns",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "contact": "Kontakt",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "menu": "Menü öffnen",
+    "menu_close": "Menü schließen",
+    "topics": "Themen",
+    "topics_label": "Deep Dives",
+    "topics_all": "Alle Artikel im Blog",
+    "faq": "FAQ",
+    "cta_starter": "Starter-Guide",
+    "locale_label": "Sprache",
+    "mega": {
+      "eyebrow": "10 Themen, eine Landkarte",
+      "title": "Wähle dein Thema",
+      "subtitle": "Jedes Thema als Deep Dive mit Pillar-Page, Artikeln und Checklisten — aus unserer eigenen Erfahrung.",
+      "pillar_badge": "Deep Dive",
+      "all_cta": "Alle Artikel ansehen"
+    },
+    "products_menu": {
+      "starter_tag": "Einsteiger",
+      "starter_price": "ab 49 €",
+      "playbook_tag": "Premium",
+      "playbook_price": "ab 197 €",
+      "once": "einmalig, kein Abo",
+      "compare": "Produkte vergleichen"
+    }
+  },
+  "announcement": {
+    "badge": "Neu",
+    "message": "Pillar-Pages zu Visa, Steuern und Sicherheit sind jetzt live.",
+    "cta": "Ansehen",
+    "dismiss": "Schließen"
+  },
+  "home": {
+    "meta": { "title": "Auswandern nach Südafrika" },
+    "hero": {
+      "eyebrow": "Ehrlich · Persönlich · Aus erster Hand",
+      "title_prefix": "Auswandern nach",
+      "title_highlight": "Südafrika",
+      "subtitle": "Wir sind Laura & Finn — mit Kind nach Südafrika ausgewandert. Hier teilen wir alles, was du wissen musst.",
+      "cta_primary": "Starter-Guide entdecken",
+      "cta_secondary": "Kostenlose Artikel",
+      "scroll": "Scroll"
+    },
+    "promise": {
+      "eyebrow": "Unser Versprechen",
+      "line1": "Keine Agentur-Floskeln, kein Verkaufsbullshit. Nur das,",
+      "highlight": "was wirklich funktioniert",
+      "line2": " — aus zwei Jahren Leben in Südafrika, mit Kind, ohne Plan B."
+    },
+    "worlds": {
+      "eyebrow": "Unsere Themen-Welten",
+      "title": "Zehn Deep Dives — für jedes Thema, das über deine Auswanderung entscheidet",
+      "subtitle": "Pillar-Artikel mit allem, was wir zu diesen Themen wissen. Ausführlich, persönlich, mit konkreten Zahlen und allen untergeordneten Artikeln auf einer Seite.",
+      "badge": "Pillar-Guide",
+      "cta": "Zum Deep Dive",
+      "more_coming": "Alle Themen-Welten sind live — zehn thematische plus eine persönliche Kategorie. Jede Pillar-Page bündelt das Wichtigste plus die Blog-Artikel zum Thema.",
+      "pillars": {
+        "visa": "Neun Visa-Typen im Vergleich — inkl. Financial Independence Permit. Welches passt zu welcher Situation, was kostet es, wie lange dauert es.",
+        "job": "Lokal angestellt, remote für einen deutschen Arbeitgeber oder selbstständig? Ehrliche Gehaltsspannen, Steuerrealität und welche Struktur zu welcher Situation passt.",
+        "auto": "Welches Fahrzeug, neu oder gebraucht, Versicherung und Führerschein-Umschreibung. Mit echten Preisen und unserer eigenen Setup-Wahl.",
+        "immobilien": "Mieten oder kaufen? Regionen, Preise und die ehrliche Antwort, warum wir nach zwei Jahren immer noch nicht gekauft haben — und warum das oft der richtige Move ist.",
+        "anschluesse": "Internet, Strom, SIM, Loadshedding — die ersten 14 Tage in Südafrika und das Backup-Setup, das du wirklich brauchst.",
+        "sicherheit": "Die ehrlichste Antwort auf „Ist Südafrika sicher?“ — Reality Check, regionale Unterschiede, die neun Routinen, die wir etabliert haben, und was es konkret pro Monat kostet.",
+        "steuern": "Wegzugsteuer, Doppelbesteuerungsabkommen, SARS-Registrierung. Ohne Anwalts-Geschwurbel, dafür mit klaren Entscheidungspunkten und unserem eigenen Fall.",
+        "krankenversicherung": "Medical Aid richtig wählen: Discovery, Momentum und Co., Wartezeiten, Late-Joiner-Penalty und warum Gap Cover Pflicht ist.",
+        "umzug": "Container-Optionen, Zoll, Timing, Auswahl der Spedition. Plus die unangenehme Wahrheit: Viele deiner deutschen Möbel gehören nicht in den Container.",
+        "banking": "Wise, Capitec, FNB: Die Drei-Konto-Struktur für Auswanderer, Transfer-Strategien und die typischen Fehler mit deutschen Hausbanken.",
+        "allgemein": "Unsere persönlichsten Artikel — Origin Story, die größten Fehler, Lebens-Vergleiche DE vs. SA. Nicht Theorie, sondern gelebte Erfahrung."
+      }
+    },
+    "topics": {
+      "eyebrow": "Zehn Themen, eine Landkarte",
+      "title": "Alles was du wissen musst",
+      "subtitle": "Von der ersten Visa-Frage bis zum ersten Schultag deines Kindes. Zehn Themenbereiche, die wir selbst durchlaufen haben.",
+      "read_link": "Artikel lesen",
+      "deep_dive_link": "Zum Deep Dive",
+      "visa": { "name": "Visa & Aufenthalt", "description": "Visa-Typen, Anträge, Bearbeitungszeiten" },
+      "job": { "name": "Job & Karriere", "description": "Jobsuche, Gehälter, Remote Work" },
+      "auto": { "name": "Auto", "description": "Kauf, Import, Versicherung, Führerschein" },
+      "immobilien": { "name": "Immobilien", "description": "Mieten, Kaufen, Regionen, Preise" },
+      "anschluesse": { "name": "Anschlüsse", "description": "Internet, Strom, Handy, Alltag" },
+      "sicherheit": { "name": "Sicherheit", "description": "Realität, Tipps, Regionen" },
+      "steuern": { "name": "Steuern", "description": "Abmeldung, Doppelbesteuerung, Optimierung" },
+      "krankenversicherung": { "name": "Krankenversicherung", "description": "Optionen, Vergleich, Kosten" },
+      "umzug": { "name": "Umzug", "description": "Container, Zoll, Spedition" },
+      "banking": { "name": "Banking", "description": "Konten, Wise, Revolut, FNB" },
+      "allgemein": { "name": "Allgemein", "description": "Grundsätzliches, persönliche Geschichten, Erfahrungsberichte" }
+    },
+    "personal": {
+      "eyebrow": "Wer wir sind",
+      "title": "Zwei Eltern, ein Kind, eine Entscheidung.",
+      "p1": "2024 haben wir in Hamburg unsere Sachen gepackt, einen Container nach Kapstadt geschickt und sind mit unserem Kind in den Flieger gestiegen. Ohne Plan B. Mit viel zu vielen offenen Fragen.",
+      "p2": "Heute, zwei Jahre später, ist Südafrika unser Zuhause. Auf dieser Seite teilen wir alles, was wir gelernt haben — inklusive der Fehler, die dich hoffentlich deine Nerven und ein paar tausend Euro sparen.",
+      "link": "Unsere Geschichte lesen",
+      "card": {
+        "label": "Auswanderer seit 2024",
+        "note": "Kapstadt · Deutschsprachig · Mit Kind",
+        "status": "Aktuell vor Ort"
+      }
+    },
+    "latest": {
+      "eyebrow": "Aus dem Blog",
+      "title": "Neueste Artikel",
+      "subtitle": "Frisch geschrieben, aus dem echten Leben als Auswanderer-Familie — keine Recherche-Artikel, sondern Erfahrungen mit Namen, Orten und Preisen.",
+      "all_link": "Alle Artikel"
+    },
+    "cta": {
+      "title": "Bereit für dein Abenteuer?",
+      "subtitle": "Hol dir unseren Starter-Guide und starte noch heute mit der Planung.",
+      "button": "Jetzt starten — ab 49 EUR"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "intro": "Ehrliche Erfahrungsberichte, praktische Guides und aktuelle Infos rund ums Auswandern nach Südafrika.",
+    "empty": "Noch keine Artikel veröffentlicht.",
+    "empty_category": "In dieser Kategorie gibt es noch keine Artikel. Schau bald wieder vorbei.",
+    "back_to_all": "Alle Artikel",
+    "category_intro": "Alle Artikel zum Thema {category}."
+  },
+  "products": {
+    "title": "Unsere Produkte",
+    "intro": "Zwei Produkte, einmalige Zahlung, kein Abo. Kostenlose Inhalte zum Reinschnuppern, dann klar strukturierter Mehrwert.",
+    "cta": "Mehr erfahren",
+    "note": "Genaue Inhalte und Preise werden aktuell finalisiert.",
+    "once": "einmalig, kein Abo",
+    "starter-guide": {
+      "name": "Südafrika Starter-Guide",
+      "description": "Umfassender digitaler Leitfaden, Checklisten, Videos und 30-Tage E-Mail-Serie. Für alle, die konkret planen.",
+      "badge": "Einsteiger-Produkt",
+      "tagline": "Der ehrliche Leitfaden für alle, die konkret planen — kompakt, praktisch, aus unserer eigenen Erfahrung.",
+      "cta": "Starter-Guide kaufen",
+      "includes_heading": "Was drin ist",
+      "includes": {
+        "i1": "Digitaler Leitfaden (Online + PDF)",
+        "i2": "Schritt-für-Schritt Checklisten für jede Phase",
+        "i3": "Vorlagen für Visumanträge und Behördenkorrespondenz",
+        "i4": "10+ Video-Tutorials von Laura & Finn",
+        "i5": "30-Tage E-Mail-Begleitserie nach Kauf",
+        "i6": "Community-Forum-Zugang",
+        "i7": "Auswander-KI mit 20 Fragen pro Tag"
+      },
+      "chapters_heading": "Die 5 Kapitel",
+      "chapters_intro": "Fokus auf das, was am Anfang wirklich zählt. Nichts überflüssiges.",
+      "chapters": {
+        "c1": { "title": "Entscheidungsfindung", "body": "Ist Südafrika das Richtige für dich? Mit Selbst-Test und Warnsignalen." },
+        "c2": { "title": "Visa-Optionen im Überblick", "body": "Alle relevanten Visumtypen, Chancen und typische Fallstricke." },
+        "c3": { "title": "Die ersten Wochen: Ankommen & Einleben", "body": "Tag-für-Tag-Plan für Monat 1. Was sofort erledigt werden muss." },
+        "c4": { "title": "Grundlagen: Bankkonto, SIM, Anschlüsse", "body": "Praktische Schritte, die ohne Visa-Status funktionieren." },
+        "c5": { "title": "Alltagsleben mit Kind in Südafrika", "body": "Schule, Kita, Kinderarzt, Freunde finden, Sicherheit im Alltag." }
+      },
+      "for_whom_heading": "Für wen ist das",
+      "for_whom": {
+        "good": {
+          "heading": "Passt, wenn du",
+          "body": "konkret planst (nicht nur träumst), einen klaren Fahrplan willst und bereit bist, die ersten Entscheidungen zu treffen."
+        },
+        "bad": {
+          "heading": "Passt nicht, wenn du",
+          "body": "detaillierte Experteninterviews zu Steuern/Immobilien/Visa-Masterclass erwartest. Dann ist das Playbook das richtige."
+        }
+      },
+      "upgrade": {
+        "title": "Brauchst du mehr?",
+        "body": "Das Playbook enthält alles aus dem Starter-Guide plus Experten-Interviews, Live Q&A und das komplette Wissen.",
+        "cta": "Playbook ansehen"
+      }
+    },
+    "playbook": {
+      "name": "Das komplette Auswander-Playbook",
+      "description": "Alles aus dem Starter-Guide plus: Experten-Interviews, Steueroptimierung, Immobilien-Marktübersicht, unbegrenzter KI-Zugang, Live Q&A mit uns.",
+      "badge": "Premium-Produkt",
+      "tagline": "Das definitive Nachschlagewerk. Alles, was wir wissen, in einem Produkt — inklusive Experten und lebenslanger Updates.",
+      "cta": "Playbook kaufen",
+      "bonus_heading": "Was du zusätzlich zum Starter-Guide bekommst",
+      "bonus_intro": "Alle Inhalte des Starter-Guides sind enthalten. Darüber hinaus:",
+      "bonus": {
+        "b1": "Experten-Interviews (Video) mit Steuerberatern, Maklern, Anwälten",
+        "b2": "Steuerliche Optimierungsstrategien (mit Partner-Steuerberater)",
+        "b3": "Live Q&A mit Laura & Finn (1× pro Quartal, exklusiv)",
+        "b4": "Unbegrenzter Zugang zur Auswander-KI",
+        "b5": "Lebenslange kostenlose Updates + exklusive Affiliate-Rabatte"
+      },
+      "chapters_heading": "Die 10 vertiefenden Kapitel",
+      "chapters_intro": "Jedes der 10 Themen als vollständiges Nachschlagewerk — nicht als Oberflächenblick.",
+      "chapters": {
+        "c1": { "title": "Visa-Masterclass", "body": "Jeder Visa-Typ im Detail, mit echten Antragserfahrungen." },
+        "c2": { "title": "Jobsuche & Selbstständigkeit", "body": "Realistische Wege, konkrete Plattformen, Gehalts-Benchmarks." },
+        "c3": { "title": "Auto: Von Import bis Versicherung", "body": "Neu, gebraucht, importiert. Wartung und Weiterverkauf." },
+        "c4": { "title": "Immobilien: Mieten vs. Kaufen", "body": "Regionen im Detail, Preistrends, Vertragsbesonderheiten." },
+        "c5": { "title": "Steuern: Doppelbesteuerung, Abmeldung, Optimierung", "body": "Gemeinsam mit unserem Partner-Steuerberater." },
+        "c6": { "title": "Krankenversicherung & Gesundheitssystem", "body": "Discovery, Momentum und Co. — wer passt zu wem." },
+        "c7": { "title": "Sicherheit: Realität vs. Vorurteile", "body": "Regionale Einschätzungen und konkrete Präventions-Routinen." },
+        "c8": { "title": "Umzugslogistik: Container, Zoll, Checklisten", "body": "Von der ersten Offertanfrage bis zur Zoll-Abfertigung in Kapstadt." },
+        "c9": { "title": "Banking & Finanzen", "body": "Konten, internationale Überweisungen, Investieren vor Ort." },
+        "c10": { "title": "Community & Integration", "body": "Wie man in Südafrika Freundschaften baut — ohne Isolations-Falle." }
+      },
+      "for_whom_heading": "Für wen ist das",
+      "for_whom": {
+        "good": {
+          "heading": "Passt, wenn du",
+          "body": "ernsthaft und umfassend planst, auch die komplexen Fragen (Steuern, Immobilien, Visa) durchdringen willst und Live-Zugang zu uns haben möchtest."
+        },
+        "bad": {
+          "heading": "Passt nicht, wenn du",
+          "body": "nur erste Orientierung brauchst. Dann ist der Starter-Guide der bessere Einstieg."
+        }
+      },
+      "final_cta": {
+        "title": "Das komplette Wissen — einmal gekauft, lebenslang dein",
+        "body": "Einmalige Zahlung, kein Abo. Lebenslange Updates. Vollständiger Zugang.",
+        "button": "Playbook jetzt kaufen"
+      }
+    }
+  },
+  "about": {
+    "meta": { "title": "Über uns" },
+    "hero": {
+      "title": "Wir sind Laura & Finn",
+      "subtitle": "Eine deutsche Familie, die nach Südafrika ausgewandert ist — mit Kind, ohne Plan B. Heute helfen wir anderen, den gleichen Weg zu gehen."
+    },
+    "story": {
+      "heading": "Wie alles anfing",
+      "p1": "Angefangen hat es mit einem dreiwöchigen Urlaub in Kapstadt — und der Erkenntnis, dass wir nicht mehr zurückwollten. Zwei Jahre später saßen wir in einem halbvollen Airbnb in Bloubergstrand mit drei Koffern, unserem Kind und einem Container auf hoher See.",
+      "p2": "Wir hatten zu diesem Zeitpunkt schon viel recherchiert, aber noch mehr offene Fragen. Die meisten Online-Guides waren entweder oberflächlich, veraltet oder von Beratern geschrieben, die auswandern als Produkt verkaufen wollten — nicht als Leben.",
+      "p3": "Diese Seite ist das, was wir selbst damals gebraucht hätten: ehrlich, aus erster Hand, ohne Verkaufsbullshit. Inklusive der Fehler, die wir gemacht haben. Und es waren einige."
+    },
+    "mission": {
+      "heading": "Unsere Mission",
+      "p1": "Wir wollen die erste und ehrlichste Anlaufstelle für deutschsprachige Südafrika-Auswanderer sein. Keine Theorie, sondern Praxiswissen aus dem echten Alltag. Keine generischen Checklisten, sondern Entscheidungshilfe für genau deine Situation."
+    },
+    "values": {
+      "heading": "Was uns wichtig ist",
+      "v1": {
+        "title": "Ehrlichkeit über Reichweite",
+        "body": "Wir sagen auch dann ab, wenn ein Produkt oder Anbieter nicht hält, was er verspricht — egal wie gut die Provision ist."
+      },
+      "v2": {
+        "title": "Erfahrung statt Theorie",
+        "body": "Jeder Guide basiert auf dem, was wir selbst gemacht oder mit Familien vor Ort erlebt haben. Kein Recherche-Artikel ohne Praxis-Test."
+      },
+      "v3": {
+        "title": "Aktualität vor Vollständigkeit",
+        "body": "Gesetze, Preise und Visa-Regeln ändern sich. Wir überarbeiten Artikel regelmäßig und zeigen offen, wann etwas zuletzt geprüft wurde."
+      },
+      "v4": {
+        "title": "Du entscheidest",
+        "body": "Wir geben dir Informationen, nicht fertige Antworten. Jede Familie ist anders, jede Auswanderung auch. Wir respektieren, dass du am Ende deinen eigenen Weg gehst."
+      }
+    },
+    "cta": {
+      "title": "Lerne uns besser kennen",
+      "subtitle": "Starte mit unseren kostenlosen Artikeln oder hol dir den Starter-Guide für strukturierte Planung.",
+      "primary": "Produkte ansehen",
+      "secondary": "Zum Blog"
+    }
+  },
+  "privacy": {
+    "title": "Datenschutz",
+    "placeholder": "Die vollständige Datenschutzerklärung wird vor Live-Gang ergänzt. Für Rückfragen schreib uns an die im Footer verlinkte Kontakt-Seite."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "intro": "Du hast eine konkrete Frage, ein Anliegen zu einem Artikel oder möchtest einfach Hallo sagen? Wir lesen jede E-Mail.",
+    "email_label": "Schreib uns direkt:",
+    "note": "Bitte habe Geduld — wir antworten meistens innerhalb von 48 Stunden. Pressanfragen bitte mit Betreff „Presse\"."
+  },
+  "footer": {
+    "tagline": "Deutschsprachige Plattform für Südafrika-Auswanderer — ehrlich, persönlich, aus erster Hand.",
+    "explore": "Entdecken",
+    "legal": "Rechtliches"
+  },
+  "imprint": {
+    "title": "Impressum"
+  },
+  "auth": {
+    "login_title": "Anmelden",
+    "register_title": "Registrieren",
+    "area_title": "Mein Bereich",
+    "placeholder": "Der Anmeldebereich wird später implementiert."
+  }
+}

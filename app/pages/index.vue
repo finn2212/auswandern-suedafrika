@@ -115,9 +115,9 @@ useHead({
         <p class="text-xs font-semibold uppercase tracking-[0.3em] text-gold-dark">
           {{ t('home.promise.eyebrow') }}
         </p>
-        <p class="mt-6 text-2xl font-semibold leading-relaxed text-anthracite sm:text-3xl md:text-4xl">
+        <p class="mt-6 text-lg font-medium leading-relaxed text-anthracite sm:text-xl md:text-2xl">
           {{ t('home.promise.line1') }}
-          <span class="text-gold">{{ t('home.promise.highlight') }}</span>
+          <span class="font-semibold text-gold">{{ t('home.promise.highlight') }}</span>
           {{ t('home.promise.line2') }}
         </p>
       </div>
